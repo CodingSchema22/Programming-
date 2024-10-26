@@ -86,6 +86,7 @@ p{
     padding: 8px 30px;
     border-radius: 30px;
     transition: 0.5s;
+    color: white;
 }
 .header{
     background: radial-gradient(#fff,#ffd6d6);
