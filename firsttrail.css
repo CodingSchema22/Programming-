@@ -536,7 +536,7 @@ display: none;
             }
 
             h1 {
-                font-size: 1em;
+                font-size: 0.85em;
                 min-width: 100%; /* Keeps heading full width on mobile */
             }
 
@@ -545,7 +545,7 @@ display: none;
             }
 
             .offer-img {
-                width: 80%;
+                width: 90%;
                 max-width: 300px; /* Smaller max-width for mobile */
                 margin-bottom: 15px;
             }
@@ -554,11 +554,11 @@ display: none;
         /* Styling for smaller mobile devices */
         @media (max-width: 480px) {
             h1 {
-                font-size: 1em;
+                font-size: 0.85em;
             }
 
             p, small {
-                font-size: 0.85em;
+                font-size: 0.75em;
             }
 
             .offer-img {
