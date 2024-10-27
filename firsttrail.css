@@ -523,3 +523,23 @@ form a
 display: none;
     }
 }
+
+
+@media (max-width: 768px) {
+            .row {
+                flex-direction: column;
+            }
+
+            h1 {
+                font-size: 1.5em;
+            }
+
+            p, small {
+                font-size: 0.9em;
+            }
+
+            .offer-img {
+                width: 80%;
+                margin-bottom: 15px;
+            }
+}
